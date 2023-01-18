@@ -1,5 +1,6 @@
 {
-    "files.exclude": {
-        "**/.git": false
-    }
+  "files.exclude": {
+    "**/.git": false
+  },
+  "python.formatting.provider": "black"
 }
